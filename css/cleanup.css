@@ -20,5 +20,7 @@ div#wall div.parent #tag-5.slick {
 }
 
 body div#wall div.parent div:last-child div#tag-6 {
-  display; none; 
+  display; none;
+  height: 500px;
+  width: 500px; 
 }
